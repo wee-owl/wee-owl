@@ -1,8 +1,6 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **wee-owl/wee-owl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi! 👋   
+✨ I’m Elena ✨  
+👀 I’m interested in frontend development  
+🌱 I’m currently learning at rsschool javascript course and netology javascript course  
+💞️ I’m looking for a job or probation   
+
+📫  you can contact me by email kem-cv@yandex.ru  
+My CV - https://wee-owl.github.io/rsschool/  
