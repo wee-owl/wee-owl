@@ -20,4 +20,3 @@ Hi! 👋
 💞️ I’m looking for a job or probation   
 
 📫  you can contact me by email kem-cv@yandex.ru  
-My CV - https://wee-owl.github.io/rsschool/  
