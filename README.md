@@ -25,6 +25,7 @@
 
 ### 🛠 Tools:
 
+<img alt="webpack" src="https://img.shields.io/badge/webpack-8ED6FC.svg?&style=for-the-badge&logo=webpack&logoColor=fff" />&nbsp;
 <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-24AEF4.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
