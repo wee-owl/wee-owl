@@ -1,5 +1,5 @@
 ### Hi all, I’m Elena! 👋
-#### 2 Years of Learning and 5 Months of Commercial Development in Frontend
+#### 2 Years of Learning and 6 Months of Commercial Development in Frontend
 
 <!---
 [<img src="https://github.com/wee-owl/wee-owl/assets/95621680/15e0dd86-f416-4c5b-a489-ed260b77df89" width="30" height="30" alt="Portfolio"></img> Portfolio](https://)
@@ -28,6 +28,8 @@
 
 ### 🛠 Tools:
 
+<img alt="vite" src="https://img.shields.io/badge/vite-9468FE.svg?&style=for-the-badge&logo=vite&logoColor=fff" />&nbsp;
+<img alt="docker" src="https://img.shields.io/badge/docker-099CEC.svg?&style=for-the-badge&logo=docker&logoColor=fff" />&nbsp;
 <img alt="webpack" src="https://img.shields.io/badge/webpack-8ED6FC.svg?&style=for-the-badge&logo=webpack&logoColor=fff" />&nbsp;
 <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
@@ -49,5 +51,5 @@
 
 ### ⚙️ GitLab Analytics
 ![image](https://github.com/user-attachments/assets/8a13a1bf-703a-46d8-b45e-7d4cee532ad8)
-![Снимок](https://github.com/user-attachments/assets/d75bec56-8117-437a-9ef0-e07113c0ccc9)
+![Снимок](https://github.com/user-attachments/assets/040b56e6-0c61-402d-b3b4-efcc9bb632cf)
 
