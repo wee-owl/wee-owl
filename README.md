@@ -1,5 +1,5 @@
 ### Hi all, I’m Elena! 👋
-#### 2 Years of Learning and 6 Months of Commercial Development in Frontend
+#### 2 Years of Learning and 7 Months of Commercial Development in Frontend
 
 <!---
 [<img src="https://github.com/wee-owl/wee-owl/assets/95621680/15e0dd86-f416-4c5b-a489-ed260b77df89" width="30" height="30" alt="Portfolio"></img> Portfolio](https://)
@@ -51,5 +51,4 @@
 
 ### ⚙️ GitLab Analytics
 ![image](https://github.com/user-attachments/assets/8a13a1bf-703a-46d8-b45e-7d4cee532ad8)
-![Снимок](https://github.com/user-attachments/assets/040b56e6-0c61-402d-b3b4-efcc9bb632cf)
-
+![image](https://github.com/user-attachments/assets/87c8bc86-0021-4af7-a9ba-70a8de0ca858)
