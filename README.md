@@ -1,5 +1,5 @@
 ### Hi all, I’m Elena! 👋
-#### 2 Years of Learning and 9 Months of Commercial Development in Frontend
+#### 2 Years of Learning and 1 Year of Commercial Development in Frontend
 
 <!---
 [<img src="https://github.com/wee-owl/wee-owl/assets/95621680/15e0dd86-f416-4c5b-a489-ed260b77df89" width="30" height="30" alt="Portfolio"></img> Portfolio](https://)
@@ -34,7 +34,9 @@
 <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="gitlab" src="https://img.shields.io/badge/gitlab-EA763C.svg?&style=for-the-badge&logo=gitlab&logoColor=fff" />&nbsp;
-<img alt="vs code" src="https://img.shields.io/badge/vs code-24AEF4.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
+<img alt="vs code" src="https://img.shields.io/badge/vs code-24AEF4.svg?&style=for-the-badge&logo=Visual_Studio_Code&logoColor=fff" />&nbsp;
+<img alt="postgres" src="https://img.shields.io/badge/postgres-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=fff" />&nbsp;
+<img alt="dbeaver" src="https://img.shields.io/badge/dbeaver-382923.svg?&style=for-the-badge&logo=dbeaver&logoColor=fff" />&nbsp;
 <img alt="mongodb" src="https://img.shields.io/badge/mongodb-17833F.svg?&style=for-the-badge&logo=mongodb&logoColor=fff" />&nbsp;
 <img alt="figma" src="https://img.shields.io/badge/figma-A259FF.svg?&style=for-the-badge&logo=figma&logoColor=fff" />&nbsp;
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-229BFF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
@@ -51,4 +53,4 @@
 
 ### ⚙️ GitLab Analytics
 ![image](https://github.com/user-attachments/assets/8a13a1bf-703a-46d8-b45e-7d4cee532ad8)
-![image](https://github.com/user-attachments/assets/41f002c7-3b89-441b-b543-017813f77696)
+![image](https://github.com/user-attachments/assets/bb7089f8-47bd-4fdd-b74e-2d85b3e48593)
