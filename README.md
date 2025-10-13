@@ -53,4 +53,4 @@
 
 ### ⚙️ GitLab Analytics
 ![image](https://github.com/user-attachments/assets/8a13a1bf-703a-46d8-b45e-7d4cee532ad8)
-![image](https://github.com/user-attachments/assets/bb7089f8-47bd-4fdd-b74e-2d85b3e48593)
+![image](https://github.com/user-attachments/assets/2b28d3f7-2778-49a7-9aed-d3d6f32d0741)
