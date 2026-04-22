@@ -48,9 +48,3 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wee-owl&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wee-owl&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wee-owl&theme=github)
-
----
-
-### ⚙️ GitLab Analytics
-![image](https://github.com/user-attachments/assets/8a13a1bf-703a-46d8-b45e-7d4cee532ad8)
-![image](https://github.com/user-attachments/assets/2b28d3f7-2778-49a7-9aed-d3d6f32d0741)
