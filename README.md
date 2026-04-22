@@ -1,5 +1,5 @@
 ### Hi all, I’m Elena! 👋
-#### 2 Years of Learning and 1 Year of Commercial Development in Frontend
+#### 2 Years of Learning and 2 Years of Commercial Development in Frontend
 
 <!---
 [<img src="https://github.com/wee-owl/wee-owl/assets/95621680/15e0dd86-f416-4c5b-a489-ed260b77df89" width="30" height="30" alt="Portfolio"></img> Portfolio](https://)
