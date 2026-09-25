@@ -40,11 +40,3 @@
 <img alt="mongodb" src="https://img.shields.io/badge/mongodb-17833F.svg?&style=for-the-badge&logo=mongodb&logoColor=fff" />&nbsp;
 <img alt="figma" src="https://img.shields.io/badge/figma-A259FF.svg?&style=for-the-badge&logo=figma&logoColor=fff" />&nbsp;
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-229BFF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
-
----
-
-### ⚙️ GitHub Analytics
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wee-owl&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wee-owl&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wee-owl&theme=github)
