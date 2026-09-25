@@ -1,5 +1,5 @@
 ### Hi all, I’m Elena! 👋
-#### 2 Years of Learning and 2 Years of Commercial Development in Frontend
+#### 2+ years of commercial frontend development experience with React (TypeScript), and practical experience in backend development with Node.js and the design of relational (PostgreSQL) and non-relational (MongoDB) databases.
 
 <!---
 [<img src="https://github.com/wee-owl/wee-owl/assets/95621680/15e0dd86-f416-4c5b-a489-ed260b77df89" width="30" height="30" alt="Portfolio"></img> Portfolio](https://)
